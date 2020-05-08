@@ -198,7 +198,7 @@
 								<div class="form-group">
 								  <label class="control-label col-sm-2" for="pwd">Customer Name:</label>
 								  <div class="col-sm-10">
-									<input type="text" name = "cname" class="form-control" id="name" value="Cus1">
+									<input type="text" name = "cname" class="form-control" id="name" value="Shashith Adithya">
 								  </div>
 								</div>
 								<div class="form-group col-md-4">
@@ -212,13 +212,13 @@
 								<div class="form-group">
 										<label class="control-label col-sm-2" for="pwd">Telephone No:</label>
 										<div class="col-sm-10">
-										  <input type="text" name="tp" class="form-control" id="tp" value="0112456770">
+										  <input type="text" name="tp" class="form-control" id="tp" value="0719451383">
 										</div>
 									  </div>
 									  <div class="form-group">
 											<label class="control-label col-sm-2" for="pwd">Email:</label>
 											<div class="col-sm-10">
-											  <input type="text" name="email" class="form-control" id="email" value="cus1@gmail.com">
+											  <input type="text" name="email" class="form-control" id="email" value="adithyashashith@gmail.com">
 											</div>
 										  </div>
 										  
